@@ -17,3 +17,20 @@ Medical-Knowledge-Engineering
 ├── 05-Patient-Education
 │
 └── 06-References
+醫學文獻
+    ↓
+PDF
+    ↓
+OCR
+    ↓
+文字清理
+    ↓
+AI 摘要
+    ↓
+文獻分類
+    ↓
+醫學知識庫
+    ↓
+病人衛教
+    ↓
+GitHub Pages 網站
