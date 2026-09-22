@@ -2,9 +2,18 @@
 
 這個專案用來學習：
 
-1. GitHub
-2. Python
-3. AI
-4. 醫學文獻整理
-5. 醫療衛教
-6. NoteBook LLM for presentation 
+Medical-Knowledge-Engineering
+│
+├── README.md
+│
+├── 01-Literature
+│
+├── 02-OCR
+│
+├── 03-Python
+│
+├── 04-AI
+│
+├── 05-Patient-Education
+│
+└── 06-References
